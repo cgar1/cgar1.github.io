@@ -21,9 +21,9 @@ The reason for this is to differentiate houses that are sold by
   of running a second sql on my two groups of interest to separate by the date
   the property was sold. Below is the gifscreated from the resulting data.
 
-[independent](https://imgur.com/a/wE5kZwB)
+![independent](https://imgur.com/a/wE5kZwB)
 
-[non-independent](https://imgur.com/a/Iiz4rw2)
+![non-independent](https://imgur.com/a/Iiz4rw2)
 
 Below is code for a python selection and a save to drive function.
 '''python
