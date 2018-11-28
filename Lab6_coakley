@@ -1,0 +1,108 @@
+Lab 6
+
+Part1
+
+![Pt1_weight](https://i.imgur.com/NzbDcJP.png)
+
+Weight is set from the provided shapefile.
+
+![Pt1_natbreak](https://i.imgur.com/uCqHNwd.png)
+
+A natural break map is made to visualize areas of high concentration.
+
+![Pt1_sigmap](https://i.imgur.com/Tr4fKW0.png)
+
+A significance map is made to show areas of statistical significance.
+
+![Pt1_sigmap99999](https://i.imgur.com/fRHQZkG.png)
+
+The previous significance map with adjusted p.
+
+![Pt1_cluster](https://i.imgur.com/XPgXSMe.png)
+
+A cluster map indicating clustered groups.
+
+![pt1_cluster99999](https://i.imgur.com/F0nuxEN.png)
+
+Altered cluster map.
+
+![Pt1_clusterscatt1](https://i.imgur.com/4W0aqdU.png)
+
+![Pt1_clusterscatt2](https://i.imgur.com/HLelS9B.png)
+
+![Pt1_clusterscatt3](https://i.imgur.com/Dy1DTD0.png)
+
+![Pt1_clusterscatt4](https://i.imgur.com/SLVWPO6.png)
+
+Various selections using the scatter plot.
+
+![Pt1_Sigmap2](https://i.imgur.com/AchS8XH.png)
+
+Alternate significance map with altered p value and significance.
+
+![Pt1_bonferroni](https://i.imgur.com/QQZOPN7.png)
+
+Added Bonferroni filter.
+
+![Pt1_coreneigh](https://i.imgur.com/si4QHri.png)
+
+Selection of cores and neighbors.
+
+![Pt1_core](https://i.imgur.com/Xkp9vFj.png)
+
+Selection of just core areas.
+
+![Pt1_coresig](https://i.imgur.com/T9s62nD.png)
+
+Significance map with core areas selected.
+
+![Pt1_bivariable](https://i.imgur.com/f8N6IQt.png)
+
+Bivariable map including literacy and wealth
+
+![Pt1_Geary](https://i.imgur.com/XAWa5gI.png)
+
+Map using a geary filter.
+
+![Pt1_gearyscatt](https://i.imgur.com/8WmJ9Ov.png)
+
+Scatterplot of a map using a geary filter.
+
+![Pt1_gearysig](https://i.imgur.com/AoNiGWb.png)
+
+Significance map of a geary filtered map.
+
+![Pt1_Gi](https://i.imgur.com/bU7M5sB.png)
+
+Gi map.
+
+![Pt1_Gi99999](https://i.imgur.com/ORbSVq4.png)
+
+Gi map with a p filter.
+
+
+Part 2
+
+![Pt2_weight](https://i.imgur.com/bXDeCde.png)
+
+Setting up the weight that is going to be used for Baltimore. Life expectancy was used as the weight.
+
+![Pt2_regressionclassic](https://i.imgur.com/7woaJpG.png)
+
+A regression model is run to determine if lag analysis or error analysis should be used. The model is run comparing life expectancy to lead toxicity to determine the correlation between the two. The Moran I is slightly positive indicating some clustering occurring.
+
+![Pt2_regressionlag](https://i.imgur.com/q8ba5Sr.png)
+
+A lag model was determined to be the best solution and is then run.
+
+![Pt2_cluster](https://i.imgur.com/I4aNKuj.png)
+
+A cluster map of the data is created to visualize the data.
+
+![Pt2_sig](https://i.imgur.com/3YOdO2H.png)
+
+A significance map of the data is also created.
+
+![Pt2_lisa](https://i.imgur.com/aQpKSKu.png)
+
+Finally a Lisa map is created to further visualize the correlation between the two factors.
