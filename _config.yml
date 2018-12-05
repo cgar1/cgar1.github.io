@@ -1,1 +1,6 @@
 remote_theme: daviddarnes/alembic
+
+navigation_header:
+  Home: /
+  Project 1: /cgar1.github.io/Project_1_Coakley.md
+      
