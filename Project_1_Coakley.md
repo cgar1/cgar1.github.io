@@ -1,3 +1,4 @@
+# Does the sale of Properties Correlate to Social Factors
 Using Census Data to identify racial density in neighborhoods in Baltimore, MD I was able to correlate the sale of properties to having a greater impact on those in poverty and in most cases the black population of Baltimore. I was able to further link this to the current developments in Baltimore and how these specific areas are targeted by corporations and developers. The data is focussed around 2010 with supporting information that shows demographic information for baltimore neighborhoods. The SQL I preformed selected lots that were sold only in 2010 and projected those properties onto my map.
 
 ![White Population 3D](https://i.imgur.com/s8KpxXF.png)
