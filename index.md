@@ -58,7 +58,7 @@ Real Property Data Set courtesey of Dillon Mahmoudi,[Tiger Line Census Data](htt
 
 ![Imgur](https://i.imgur.com/mO3uYuG.png)
 
-[See more details here.](https://cgar1.github.io/Lab6_coakley.md)
+[See more details here.](https://cgar1.github.io/Lab6_coakley.html)
 
 For this project I explored the various functions of GeoDa used for statistical analysis.
 
