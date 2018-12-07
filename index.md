@@ -23,7 +23,7 @@ Real Property Data Set courtesey of Dillon Mahmoudi,[Tiger Line Census Data](htt
 
 ### Project 2
 
-![Project 2](https://i.imgur.com/fnEUrIc.png)
+![Project 2](https://i.imgur.com/Npw2pUh.png)
 
 [See more details here.](https://cgar1.github.io/project2_coakley.html)
 
