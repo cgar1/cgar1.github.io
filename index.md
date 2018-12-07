@@ -43,9 +43,9 @@ Real Property Data Set courtesey of Dillon Mahmoudi,[Tiger Line Census Data](htt
 
 ![Its cool](https://i.imgur.com/mZwMRT3.png)
 
-[See more details here.](https://dillonma.github.io/project1_bamap/project1.html)
+[See more details here.](https://www.mcleodgaming.com/games/ssf2)
 
-For a my final iteration of my project I used GeoDa to statistically find if theres a significance between independent/nonindependent properties sold and their relation to racial and poverty density within Baltimore City.
+For a my final iteration of my project I used GeoDa to statistically find if theres a significance between independent/nonindependent properties sold and their relation to racial and poverty density within Baltimore City. As a place holder enjoy a picture of a cool guy and a link to Super Smash Flash 2
 <small>__Tools__: QGIS, GeoDa</small>
 <small>__Data__: 
 Real Property Data Set courtesey of Dillon Mahmoudi,[Tiger Line Census Data](https://www.census.gov/geo/maps-data/data/tiger-data.html) [Baltimore City Open GIS Data](http://gis-baltimore.opendata.arcgis.com/)</small>
@@ -60,7 +60,7 @@ Real Property Data Set courtesey of Dillon Mahmoudi,[Tiger Line Census Data](htt
 
 [See more details here.](https://cgar1.github.io/Lab6_coakley.html)
 
-For this project I explored the various functions of GeoDa used for statistical analysis.
+For this project I explored the various functions of GeoDa used for statistical analysis and ran analyses on the relation between various factors.
 
 <small>__Tools__: GeoDa
 
