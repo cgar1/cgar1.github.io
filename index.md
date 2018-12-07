@@ -12,6 +12,7 @@ title: Garrett Coakley's Portfolio
 [See more details here.](https://cgar1.github.io/Project_1_Coakley.html)
 
 For this project I examined the spatial relation between racial density, poverty percentage, and the quantity of property sold within Baltimore neighborhood tracts.
+
 <small>__Tools__: QGIS </small>
 
 <small>__Data__: 
@@ -28,6 +29,7 @@ Real Property Data Set courtesey of Dillon Mahmoudi,[Tiger Line Census Data](htt
 [See more details here.](https://cgar1.github.io/project2_coakley.html)
 
 In continuation of my previous project I further refined my data to only incorporate properteys that were sold by an individual rather than a corporation or other institution. This was done to better vision sold properteys in a spacial setting with further context. The same was done for properteys sold by corporations or institutions. With the resulting information two gifs were created showing sold properties on a yearly basis.
+
 <small>__Tools__: QGIS, EZgif.com</small>
 
 <small>__Data__: 
@@ -47,7 +49,9 @@ Real Property Data Set courtesey of Dillon Mahmoudi,[Tiger Line Census Data](htt
 
 For a my final iteration of my project I used GeoDa to statistically find if theres a 
 significance between independent/nonindependent properties sold and their relation to racial and poverty density within Baltimore City. As a place holder enjoy a picture of a cool guy and a link to Super Smash Flash 2
+
 <small>__Tools__: QGIS, GeoDa</small>
+
 <small>__Data__: 
 Real Property Data Set courtesey of Dillon Mahmoudi,[Tiger Line Census Data](https://www.census.gov/geo/maps-data/data/tiger-data.html) [Baltimore City Open GIS Data](http://gis-baltimore.opendata.arcgis.com/)</small>
 
