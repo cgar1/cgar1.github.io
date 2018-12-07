@@ -8,6 +8,7 @@ title: Garrett Coakley's Portfolio
 ### Project 1 
 
 ![Project 1](https://i.imgur.com/HpHTzXC.png)
+
 [See more details here.](https://cgar1.github.io/Project_1_Coakley.html)
 
 For this project I examined the spatial relation between racial density, poverty percentage, and the quantity of property sold within Baltimore neighborhood tracts.
@@ -24,7 +25,7 @@ Real Property Data Set courtesey of Dillon Mahmoudi,[Tiger Line Census Data](htt
 
 ![Project 2](https://i.imgur.com/fnEUrIc.png)
 
-[See more details here.](cgar1.github.io/project2_coakley.md)
+[See more details here.](https://cgar1.github.io/project2_coakley.html)
 
 In continuation of my previous project I further refined my data to only incorporate properteys that were sold by an individual rather than a corporation or other institution. This was done to better vision sold properteys in a spacial setting with further context. The same was done for properteys sold by corporations or institutions. With the resulting information two gifs were created showing sold properties on a yearly basis.
 <small>__Tools__: QGIS, EZgif.com</small>
@@ -57,7 +58,7 @@ Real Property Data Set courtesey of Dillon Mahmoudi,[Tiger Line Census Data](htt
 
 ![Imgur](https://i.imgur.com/mO3uYuG.png)
 
-[See more details here.](https://dillonma.github.io/project2_sfi/project2.html)
+[See more details here.](https://cgar1.github.io/Lab6_coakley.md)
 
 For this project I explored the various functions of GeoDa used for statistical analysis.
 
