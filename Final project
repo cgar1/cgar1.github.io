@@ -1,0 +1,17 @@
+As my final project I am continuing my previous work on Baltimore City property.
+For this process I will be using GeoDa to see if property being sold has a direct
+relationship to racial density within neighborhood tracts. My previous work has involved
+refining the housing data of any errors and separated the sold property by owner and year. 
+The two classes of ownership are independent and non independent based off theseller of the 
+property; the listing being clear if it was an individual or company/institution.
+I also created gifs of both classes showing visually  where each property was sold from 2000-2010.
+These have only been a visual representation and requires a statisticalanalysis to determine if there 
+is a significant relationship between the property sold andthe owner of the property.  
+Without this knowledge there is still no proof that there is acorrelation between race and sold properties. 
+A Moran’s I analysis is going to be runthrough GeoDa to determine if there is any relationship between sold
+property densityand neighborhood tracts with varying racial density. To utilize the data i have analteration 
+will be needed to the vector data so i may utilize it in GeoDa. Linking thehousing data to the population data
+will be required as well. To accomplish this thehousing vector will be converted to points and a number of 
+points within a tract will becalculated and finally appropriate columns will be made and joined together 
+for GeoDa analysis. This final step will be the final answer to the work i have completed throughoutthe 
+semester and will be able to determine if there is any correlation between propertysold and racial density.
