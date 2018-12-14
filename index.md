@@ -45,7 +45,7 @@ Real Property Data Set courtesey of Dillon Mahmoudi,[Tiger Line Census Data](htt
 
 ![Its cool](https://i.imgur.com/mZwMRT3.png)
 
-[See more details here.](https://www.mcleodgaming.com/games/ssf2)
+[See more details here.](https://cgar1.github.io/Final project)
 
 For a my final iteration of my project I used GeoDa to statistically find if theres a 
 significance between independent/nonindependent properties sold and their relation to racial and poverty density within Baltimore City. As a place holder enjoy a picture of a cool guy and a link to Super Smash Flash 2
