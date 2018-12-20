@@ -1,4 +1,4 @@
-##Heatmap and Statistical Analysis of Sold Property in Baltimore City
+Heatmap and Statistical Analysis of Sold Property in Baltimore City
 
 For the final Iteration of my GES 486 research into sold property and if there
  is a relationship to racial density within census tracts in Baltimore City.
