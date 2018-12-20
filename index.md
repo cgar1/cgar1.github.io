@@ -50,7 +50,7 @@ Real Property Data Set courtesey of Dillon Mahmoudi,[Tiger Line Census Data](htt
 For a my final iteration of my project I used GeoDa to statistically find if theres a 
 significance between independent/nonindependent properties sold and their relation to racial and poverty density within Baltimore City. 
 
-<small>__Tools__: QGIS, GeoDa</small>
+<small>__Tools__: QGIS, GeoDa, EZgif.com</small>
 
 <small>__Data__: 
 Real Property Data Set courtesey of Dillon Mahmoudi,[Tiger Line Census Data](https://www.census.gov/geo/maps-data/data/tiger-data.html) [Baltimore City Open GIS Data](http://gis-baltimore.opendata.arcgis.com/)</small>
