@@ -43,7 +43,7 @@ Real Property Data Set courtesey of Dillon Mahmoudi,[Tiger Line Census Data](htt
 
 ### Project 3 
 
-![Its cool](https://i.imgur.com/mZwMRT3.png)
+![Project 3](https://i.imgur.com/9lPte0Z.png)
 
 [See more details here.](https://cgar1.github.io/Project3.html)
 
