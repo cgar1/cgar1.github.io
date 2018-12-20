@@ -16,11 +16,11 @@ For the final Iteration of my GES 486 research into sold property and if there
 
   Independent Property Heatmap
 
- ![Independent Heatmap](https://i.imgur.com/CdEAEI2.gifv)
+ [Independent Heatmap](https://i.imgur.com/CdEAEI2.gifv)
 
   Non Independent Property Heatmap
 
-  ![Non Independent Heatmap](https://i.imgur.com/dQ25zSR.gifv)
+  [Non Independent Heatmap](https://i.imgur.com/dQ25zSR.gifv)
 
 
   Although you are able to identify some correlation from the new gifs and previous 
